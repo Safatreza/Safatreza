@@ -4,12 +4,25 @@
 
 ---
 
-## 🔭 About Me
+## 🛠️ Tech Stack
 
-I'm currently in my 4th semester of Aerospace Engineering at the Technical University of Munich.  
-At [Phantum](https://phantum.space), I've progressed through roles in aviation software, systems engineering, and now propulsion engineering — contributing to high-speed UAV development with a focus on automation, performance modeling, and system integration.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-2A3D61?style=flat&logo=solidworks&logoColor=white)
 
-My academic and project work centers around building scientifically sound and technically practical aerospace solutions—from simulating supersonic nozzle flows to developing automated tools for UAV mission support.
+---
+
+## 📊 GitHub Stats
+
+![Safat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Safatreza&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+---
+
+## 📈 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Safatreza&layout=compact&theme=radical)
 
 ---
 
@@ -86,3 +99,5 @@ My academic and project work centers around building scientifically sound and te
 ---
 
 > _“Per aspera ad astra – Through hardship to the stars.”_
+
+
