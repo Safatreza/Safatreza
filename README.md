@@ -25,79 +25,77 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Safatreza&layout=compact&theme=radical)
 
 ---
+**Lead Aviation Propulsion Software Engineer @ Phantum**  
+Munich, Germany | ✉️ mdsafatrezanurmajumder@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/safat-rezanur-majumder-8496a7273/)
 
-## 🛠️ Personal Projects
-
-- **💨 Supersonic Nozzle Calculator**  
-  Python tool for calculating inlet/outlet parameters, Mach number, and thrust in supersonic nozzle design.  
-  Focused on clean architecture and usability for engineers and students.
-
-- **🚀 Jet Engine Thermodynamics**  
-  Python-based simulation tool to model the thermodynamic cycle of a jet engine.  
-  Calculates thrust, fuel flow, and thermal efficiency under varying operating conditions.
-
-- **📈 Rocket Performance Calculator**  
-  A simple, modular tool to estimate delta-v, burn time, and propellant requirements based on input parameters.  
-  Useful for early-stage design evaluations and teaching purposes.
+I’m an aerospace engineering student at TUM and seasoned software engineer passionate about:
+- Developing **Python**-based tools for UAV flight control & performance estimation  
+- Building **CFD** workflows (OpenFOAM) for nozzle and combustor design  
+- Integrating propulsion algorithms with real-time sensor fusion  
+- Exploring ML-driven mission planning and autonomous systems  
 
 ---
 
-## 🧪 Engineering Projects
+## 🛠️ Core Skills & Technologies
 
-- **🌀 Helicopter Project**  
-  Contributed to the modeling and control of a basic helicopter prototype, focusing on stability, rotor dynamics, and collective pitch systems.
-
-- **🛩️ UAV Project** *(Valkyrie-1 at Phantum)*  
-  Played a key role in the development of a high-speed UAV targeting Mach 0.6, with work spanning automation, performance simulation, and propulsion analysis.
-
-- **🛸 V-TOLD Drone Project**  
-  Participated in the design and simulation of a vertical takeoff and landing drone, with special focus on aerodynamics, transition stability, and propulsion feasibility.
+- **Languages & Frameworks:** Python, C/C++, MATLAB/Simulink, JavaScript, PyQt, Flask, Django  
+- **Tools & Libraries:** OpenFOAM, ParaView, Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy  
+- **Dev & Ops:** Git/GitHub, Docker, SQL/SQLite, Linux, SolidWorks, HyperWorks  
 
 ---
 
-## 💼 Experience
+## ✨ Featured Projects
 
-- **Phantum GmbH** (Oct 2023 – Present)  
-  - **Aviation Software Engineer (Oct 2023 – Mar 2024):**  
-    Developed flight automation and performance analysis tools in Python for UAV systems.  
-  - **Systems Engineer (Apr 2024 – Sep 2024):**  
-    Contributed to avionics, flight software, and system integration tasks for high-speed UAVs.  
-  - **Propulsion Engineer (Oct 2024 – Present):**  
-    Focused on aerodynamic and space propulsion modeling, nozzle optimization, and system-level thrust performance simulations for the Valkyrie-1 UAV.
+<div align="center"> 
+  <strong>My top four projects—cornerstones of my work on UAV propulsion, flight estimation, and nozzle design.</strong>
+</div>
 
----
-
-## 🧠 Skills
-
-- **Languages**: Python, C/C++, MATLAB  
-- **Tools**: Git, Simulink, SolidWorks, Fusion 360  
-- **Domains**: Aerodynamic propulsion, space propulsion, control systems, flight dynamics, aerospace automation
+### ⚙️ Valkyrie Flight Estimator  
+[🔗 github.com/Safatreza/valkyrie_flight_estimator](https://github.com/Safatreza/valkyrie_flight_estimator)  
+A modular **Python** pipeline combining Kalman filters and sensor fusion to predict real-time state, guidance, and performance for the Valkyrie-1 UAV.  
+- Integrates aerodynamic and propulsion data for Mach 0.6 test validation  
+- Designed for plug-and-play with live telemetry feeds  
 
 ---
 
-## 📈 Currently Learning
-
-- Advanced Numerical Methods  
-- Advanced Propulsion Systems  
-- Python for scientific computing and simulation
-
----
-
-## 🌍 Languages
-
-- English – Fluent (IELTS 8.0)  
-- German – Intermediate (B1)
+### 🛠️ Nozzle Design Tool  
+[🔗 github.com/Safatreza/NozzleDesignTool](https://github.com/Safatreza/NozzleDesignTool)  
+A **PyQt**-powered GUI application that computes and visualizes converging–diverging nozzle contours, thrust curves, and flow properties.  
+- Interactive parameter sweeps for area ratio, expansion ratio, and inlet conditions  
+- Exports geometry for CAD/CAM and CFD meshing  
 
 ---
 
-## 📫 Contact
-
-- **Email**: safatrezanur.majumder@tum.de  
-- **LinkedIn**: [linkedin.com/in/safat-reza](https://www.linkedin.com/in/safat-reza)  
-- **GitHub**: [github.com/Safatreza](https://github.com/Safatreza)
+### 🌪 Supersonic Nozzle Calculations  
+[🔗 github.com/Safatreza/SupersonicNozzleCalculations](https://github.com/Safatreza/SupersonicNozzleCalculations)  
+A lightweight **Python** library of functions to calculate area–Mach relations, pressure–temperature ratios, and thrust coefficients for supersonic nozzles.  
+- Ideal for quick design iterations and back-of-envelope checks  
+- Easily extendable for integration into larger CFD or optimization workflows  
 
 ---
 
-> _“Per aspera ad astra – Through hardship to the stars.”_
+### 🔥 afterburner-cfd  
+[🔗 github.com/Safatreza/afterburner-cfd](https://github.com/Safatreza/afterburner-cfd)  
+A CFD modeling framework in **Python** and **OpenFOAM** to simulate afterburner flow dynamics, temperature fields, and pressure distributions.  
+- Includes baseline k–ε turbulence modeling  
+- Work-in-progress validation against experimental datasets  
 
+---
 
+## 🚀 What I’m Working On
+
+- **Integrated UAV Mission Planner**: ML-based flight profile optimizer (Python, Flask, Scikit-learn)  
+- **Swarm Autonomy**: ROS 2 multi-agent coordination with perception pipelines  
+- **Advanced Nozzle & Combustion Research**: OpenFOAM workflows for next-gen propulsion  
+
+---
+
+## 📫 Let’s Connect
+
+- Email: mdsafatrezanurmajumder@gmail.com  
+- LinkedIn: [@safat-rezanur-majumder-8496a7273](https://www.linkedin.com/in/safat-rezanur-majumder-8496a7273/)  
+- CV & Publications: available upon request  
+
+---
+
+*“Code with thrust, simulate with precision, and fly beyond boundaries.”*  
