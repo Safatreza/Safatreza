@@ -97,7 +97,7 @@ I am an Aerospace Engineering student at the Technical University of Munich (TUM
 |--------------------------------------|---------------------------------------------|-----------------|----------------------------------------------------------------------------------------------|
 | Technical University of Munich (TUM) | B.Sc. in Aerospace Engineering              | 10/2023 – Present | • Courses: Control Systems, Propulsion, Systems Engineering, Computational Engineering<br>• Projects: VTOL Drone Simulation (lateral control, obstacle avoidance), Integrated UAV Mission Planner |
 | Daffodil International University    | B.Sc. in Computer Science & Engineering (1.1) | 08/2021 – 06/2022 | • Coursework: Data Structures, Algorithms, OS, Embedded Systems, Software Engineering         |
-| TÜV Rheinland / TUM                  | German Language Certification (B1-B2 Level)  | 2024            | • Achieved proficiency for technical and conversational German                              |
+| TUM                  | German Language Certification (B1-B2 Level)  | 2024            | • Achieved proficiency for technical and conversational German                              |
 
 ---
 
