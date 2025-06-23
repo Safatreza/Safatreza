@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Safat%20Rezanur%20Majumder-blue?logo=linkedin)](https://www.linkedin.com/in/safat-rezanur-majumder-8496a7273/) [![Gmail](https://img.shields.io/badge/Gmail-safatrezanur9@gmail.com-red?logo=gmail)](mailto:safatrezanur9@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Safatreza-black?logo=github)](https://github.com/Safatreza)
 
-🎓 **Aerospace B.Sc. Student @ TUM | Data Engineer | CFD & UAV Enthusiast**
+🎓 **Aerospace Engineering B.Sc. Candidate at TUM | Embedded Systems | Real-Time Telemetry | Python & MATLAB | Based in Munich**
 
 > Passionate about pushing boundaries in aerospace, automation, and data-driven engineering through hands‑on projects and open-source contributions.
 
