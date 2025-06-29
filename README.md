@@ -1,80 +1,113 @@
-# Md Safat Rezanur Majumder (Safatreza)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Safat%20Rezanur%20Majumder-blue?logo=linkedin)](https://www.linkedin.com/in/safat-rezanur-majumder-8496a7273/) [![Gmail](https://img.shields.io/badge/Gmail-safatrezanur9@gmail.com-red?logo=gmail)](mailto:safatrezanur9@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Safatreza-black?logo=github)](https://github.com/Safatreza)
 
-🎓 **Aerospace Engineering B.Sc. Candidate at TUM | Embedded Systems | Real-Time Telemetry | Python & MATLAB | Based in Munich**
-
-> Passionate about pushing boundaries in aerospace, automation, and data-driven engineering through hands‑on projects and open-source contributions.
-
----
-
-## 🚀 Featured Projects
-
-| Project                           | Description                                                                                           | Tech Stack                      | Link                                                                                   |
-| --------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------- | -------------------------------------------------------------------------------------- |
-| **Afterburner CFD Analysis**      | Automated mesh sweeps & optimization in ANSYS Fluent, saving 30% prep time and boosting efficiency.   | ANSYS Fluent, Python, OpenFOAM  | [Repo](https://github.com/Safatreza/afterburner-cfd)                                   |
-| **WingPanel Reserve Factor**      | Batch structural analysis with HyperMesh to increase safety margin by 20%.                            | HyperMesh, MATLAB, Python       | [Repo](https://github.com/Safatreza/WingPanel_RF_Analysis)                             |
-| **Real‑Time Telemetry Pipeline**  | High-throughput pipeline ingesting 150+ streams/s with <200 ms latency; 40% faster anomaly detection. | Python, MQTT, Pandas            | [Repo](https://github.com/Safatreza/VitalDataIngestor)                                 |
-| **Flight Dashboard**              | Live UAV metrics & anomaly alerts in an interactive Dash dashboard with sub-second refresh.           | Dash, Plotly, FastAPI           | [Repo](https://github.com/Safatreza/flight_dashboard)                                  |
-| **UAV Simulator & Control**       | 1000+ simulation runs for flight dynamics & control prototyping with Matplotlib.                      | Python, NumPy, Matplotlib       | [Repo](https://github.com/Safatreza/uav_simulator)                                     |
-| **Landing Gear FEM Simulation**   | FEM stress analysis in HyperWorks; 15% improved accuracy in stress prediction and safety factor.      | HyperWorks, Python              | [Repo](https://github.com/Safatreza/Torsion_Link_FEM_Analysis-Landing_Gear_Simulation) |
-| **VTOL Drone Project**            | Design & SimPy-based simulation for autonomous VTOL operations with propulsion control algorithms.    | Python, SimPy, Control Theory   | [Repo](https://github.com/Safatreza/vtol_drone_project)                                |
-| **Nozzle Design Tool**            | Supersonic nozzle geometry calculator with GUI for rapid design iterations.                           | Python, Tkinter, Thermodynamics | [Repo](https://github.com/Safatreza/NozzleDesignTool)                                  |
-| **Refrigeration Cycle Simulator** | Thermodynamic cycle visualizer for refrigeration systems with interactive plots.                      | Python, Matplotlib, Pandas      | [Repo](https://github.com/Safatreza/RefrigerationCycleSimulationTool)                  |
-| **Quadcopter Platform**           | CAD, motion & control analysis of a quadcopter system with sensor integration.                        | SolidWorks, Python, ROS         | [Repo](https://github.com/Safatreza/Quadcopter_Project)                                |
-| **Traffic Signal Controller**     | Raspberry Pi-based PLC for traffic management with programmable logic control.                        | Python, Raspberry Pi, GPIO      | [Repo](https://github.com/Safatreza/Traffic_singnal_Programmable_Circuit)              |
-| **Afterburner CFD Analysis**     | Automated mesh sweeps & optimization in ANSYS Fluent, saving 30% prep time and boosting efficiency.  | ANSYS Fluent, Python, OpenFOAM      | [Repo](https://github.com/Safatreza/afterburner-cfd)         |
-| **WingPanel Reserve Factor**     | Batch structural analysis with HyperMesh to increase safety margin by 20%.                           | HyperMesh, MATLAB, Python            | [Repo](https://github.com/Safatreza/WingPanel_RF_Analysis)    |
-| **Real‑Time Telemetry Pipeline** | High-throughput pipeline ingesting 150+ streams/s with <200 ms latency; 40% faster anomaly detection. | Python, MQTT, Pandas                | [Repo](https://github.com/Safatreza/VitalDataIngestor)       |                                                                                                                                                            | **Flight Dashboard**             | Live UAV metrics & anomaly alerts in an interactive Dash dashboard with sub-second refresh.         | Dash, Plotly, FastAPI               | [Repo](https://github.com/Safatreza/flight_dashboard)        |
-| **UAV Simulator & Control**      | 1000+ simulation runs for flight dynamics & control prototyping with Matplotlib.                    | Python, NumPy, Matplotlib           | [Repo](https://github.com/Safatreza/uav_simulator)           |
-| **Landing Gear FEM Simulation**  | FEM stress analysis in HyperWorks; 15% improved accuracy in stress prediction and safety factor.    | HyperWorks, Python                   | [Repo](https://github.com/Safatreza/Torsion_Link_FEM_Analysis-Landing_Gear_Simulation) |
+# Md Safat Rezanur Majumder  
+**Aerospace Engineering B.Sc. Candidate, Technical University of Munich**  
+Munich, Germany  
+📧 mdSafatRezanurMajumder@gmail.com | 📞 +49 176 10868499  
 
 ---
 
-## 🔧 Other Notable Projects
-
-* **VTOL Drone Project**: Design & SimPy-based simulation for autonomous VTOL operations. ([Repo](https://github.com/Safatreza/vtol_drone_project))
-* **Nozzle Design Tool**: Supersonic nozzle geometry calculator with GUI. ([Repo](https://github.com/Safatreza/NozzleDesignTool))
-* **Refrigeration Cycle Simulator**: Thermodynamic cycle visualizer for refrigeration systems. ([Repo](https://github.com/Safatreza/RefrigerationCycleSimulationTool))
-* **Quadcopter Platform**: CAD, motion & control analysis of a quadcopter system. ([Repo](https://github.com/Safatreza/Quadcopter_Project))
-* **Traffic Signal Controller**: Raspberry Pi-based PLC for traffic management. ([Repo](https://github.com/Safatreza/Traffic_singnal_Programmable_Circuit))
+## 🧭 Summary  
+Seasoned aerospace engineering student with advanced expertise in propulsion-system simulation, real-time telemetry, and software development. Proficient in Python, C++, MATLAB, ANSYS Fluent, OpenFOAM, and Docker. Recognized for optimizing complex workflows, reducing operational lead times, and fostering interdisciplinary collaboration in dynamic R&D environments.
 
 ---
 
-## 📊 GitHub Statistics & Badges
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Safatreza&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safatreza&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Safatreza&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Safatreza&theme=radical&column=4" alt="Trophies" />
-</p>
+## 🎯 Objective  
+To contribute as a working student in a forward-thinking aerospace or automation engineering team, leveraging my technical acumen in simulation, data-driven telemetry, and multidisciplinary optimization. Committed to accelerating project delivery through automation, enhancing system reliability, and driving innovation in emerging aerospace technologies.
 
 ---
 
-## 📂 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/Safatreza/afterburner-cfd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Safatreza&repo=afterburner-cfd&theme=radical" alt="Afterburner CFD" /></a>
-  <a href="https://github.com/Safatreza/VitalDataIngestor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Safatreza&repo=VitalDataIngestor&theme=radical" alt="VitalDataIngestor" /></a>
-  <a href="https://github.com/Safatreza/flight_dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Safatreza&repo=flight_dashboard&theme=radical" alt="Flight Dashboard" /></a>
-  <a href="https://github.com/Safatreza/uav_simulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Safatreza&repo=uav_simulator&theme=radical" alt="UAV Simulator" /></a>
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Safatreza&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+## 🛠️ Technical Skills  
+- **Programming & Scripting**: Python · C/C++ · MATLAB · Bash  
+- **CFD & Simulation**: ANSYS Fluent · OpenFOAM · SimPy  
+- **FEM & Structural Analysis**: HyperWorks (HyperMesh)  
+- **Telemetry & Data**: MQTT · Pandas · Dash/Plotly · FastAPI  
+- **CAD & Robotics**: SolidWorks · ROS · RViz  
+- **Automation & Tools**: Git · Docker · Jenkins · Linux  
+- **GUI Development**: Tkinter · Dash  
+- **Networking & Systems**: LoRaWAN · REST APIs  
 
 ---
 
-*Last updated: \$(date +"%B %-d, %Y")*
+## 🎓 Education  
+**Technical University of Munich (TUM)**  
+B.Sc. in Aerospace Engineering, *Expected 2026*  
+Focus: Control Systems, Systems Engineering, Structures, Propulsion Engineering, Computational Thermal and Fluids Engineering  
+**Honors**: Deutschlandstipendium Recipient  
+
+**Daffodil International University**  
+B.Sc. in Computer Science and Engineering, *2021–2022*  
+Focus: Data Structures, Algorithms, Mechatronics, Embedded Systems, Microprocessors and Microcontrollers  
+**Honors**: Achieved the Highest GPA in the Cohort  
+
+---
+
+## 💼 Experience  
+
+### Phantum – Aerospace Research Initiative, TUM  
+**Propulsion & Telemetry Engineer** | Garching, Bavaria, Germany | *Oct 2023 – Present*  
+- Engineered a C++/Python telemetry system handling 150+ data streams/sec with <200 ms latency.  
+- Conducted 200+ CFD simulations in ANSYS Fluent & OpenFOAM, optimizing nozzle designs for 10% thrust increase.  
+- Developed a FastAPI-based diagnostics tool for propulsion data modeling and visualization, reducing analysis time by 25%.  
+- Collaborated with Airbus and GE teams in agile sprints, leading code reviews and integration tests.  
+
+---
+
+## 🚀 Featured Projects  
+
+### [Supersonic Afterburner CFD Simulation](https://github.com/Safatreza/afterburner-cfd)  
+![GitHub stars](https://img.shields.io/github/stars/Safatreza/afterburner-cfd?style=social)  
+![Supersonic Afterburner CFD Simulation](https://github.com/Safatreza/afterburner-cfd)  
+Developed a quasi-1D CFD solver with Gaussian heat addition and shock detection. Integrated with ANSYS Fluent for automated mesh and flow validation across 1000+ nodes. Achieved <3% RMSE against benchmarks. Reduced setup time by 30%.
+
+### Supersonic UAV Simulator  
+![GitHub stars](https://img.shields.io/github/stars/Safatreza/supersonic-uav-simulator?style=social)  
+!Supersonic UAV Simulator  
+Built a modular 6-DOF UAV simulator with Mach-dependent aerodynamics and EDF propulsion modeling. Integrated IMU/GPS/barometer sensor suite with EKF-based state estimation and gain-scheduled PID/LQR control. Enabled autonomous waypoint navigation with <2% trajectory error.
+
+### WingPanel Reserve Factor Assessment  
+!GitHub stars  
+!WingPanel Reserve Factor Assessment  
+Batch structural analysis to compute safety margins across diverse load cases. Increased structural safety margins by 20% and enabled rapid material trade studies.
+
+### [Real-Time Telemetry Pipeline](https://stars  
+!Real-Time Telemetry Pipeline  
+High-throughput ingest system processing 150+ data streams/sec with built-in anomaly detection. Enhanced anomaly detection speed by 40%.
+
+### Flight Dashboard  
+!GitHub stars  
+!Flight Dashboard  
+Interactive web app for sub-second visualization of UAV telemetry. Reduced operator response time by 50%.
+
+### [UAV Control Prototypng  
+!GitHub stars  
+!UAV Control Prototyping  
+Custom simulator for PID/LQR tuning with 1000+ automated runs. Achieved 25% improvement in trajectory-tracking accuracy.
+
+### Landing Gear FEM Simulation  
+!GitHub stars  
+!Landing Gear FEM Simulation  
+Automated finite-element stress analysis with Python post-processing. Improved stress prediction accuracy by 15%.
+
+### VTOL Drone Design & Simulation  
+!GitHub stars  
+!VTOL Drone Design & Simulation  
+End-to-end framework for autonomous VTOL transition modeling and control algorithm validation. Demonstrated stable hover-to-cruise transitions with <2 s settling time.
+
+### Nozzle Design Tool  
+!GitHub stars  
+![Nozzle Design Tool](https://github.com/Safatreza/nozzleor with interactive GUI. Accelerated design iterations by 60%.
+
+### ROS-Integrated Quadcopter Platform  
+!GitHub stars  
+!ROS-Integrated Quadcopter Platform  
+CAD modeling and ROS-based state estimation pipeline visualized in RViz. Enabled real-time telemetry and laid foundation for autonomous demos.
+
+### Adaptive Traffic Signal Controller  
+!GitHub stars  
+!Adaptive Traffic Signal Controller  
+Raspberry Pi–based PLC implementing adaptive traffic sequencing. Reduced average vehicle wait times by 20%.
+
 
 
 
