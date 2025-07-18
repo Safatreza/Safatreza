@@ -5,7 +5,7 @@
 Python • OpenFOAM • FastAPI • Streamlit • GitHub Actions
 
 📧 mdsafatrezanurmajumder@gmail.com  
-🔗 [GitHub Profile](https://github.com/Safatreza) • [LinkedIn](https://linkedin.com/in/your-profile) *(update this link)*
+🔗 [GitHub Profile](https://github.com/Safatreza) • [LinkedIn](https://www.linkedin.com/in/md-safat-rezanur-majumder-8496a7273/) 
 
 ---
 
