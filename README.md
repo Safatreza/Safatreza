@@ -1,6 +1,6 @@
 # Hi, I'm Safat 👋  
 
-💻 Software & Process Engineer (Working Student) @ [Aboutwater GmbH](https://aboutwater.de)  
+💻 Software & Process Engineer (Working Student) @ [aboutwater GmbH](https://aboutwater.de)  
 📡 Telecommunications & Signal Processing Intern @ [Project-S.Space](https://project-s.space)  
 ✈️ Aerospace Engineering Student @ TUM (B.Sc., Control & Propulsion focus)  
 
